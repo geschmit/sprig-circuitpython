@@ -1,0 +1,2 @@
+Adafruit-Blinka>=8.16.1
+adafruit-circuitpython-st7735r>=1.5.10
